@@ -1,2 +1,4 @@
 # Personality_Prediction_usingBigFiveTrait_Resume_CV_Analysis
-Predicts personality efficiently by extracting important characteristics from an applicant’s CV using Natural Language Processing (NLP) to reduce manual work while shortlisting from a large number of applications.
+I built a model that parsed the information from the CV or resume and displayed the output. The system was designed as an application, where an applicant could complete all the necessary registration information and enter their own CV information into the system.
+
+After completing the personality test, the CV, and test results were used to predict the personality of the candidate. By using this system, organizations could have access to a skilled workforce, which would make it easier for the HR department to choose the best applicant for a certain job profile.Through this process, i was able to determine the qualities and personality traits of candidates, as well as their skills and qualifications. By combining these factors, I hoped to make the hiring process easier, faster, and more fair for all candidates.
